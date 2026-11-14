@@ -2,7 +2,7 @@
 
 # 💸 PocketLedger
 
-### A lightweight, offline command-line expense tracker built with Java
+### A lightweight, offline command-line expense tracker built with Java!
 
 Record expenses, group spending by category, and see where your money goes, all from your terminal. No database, no internet, no setup.
 
